@@ -1,0 +1,12 @@
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\bin\Debug\net7.0\mvcPractica.Utilidades.deps.json
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\bin\Debug\net7.0\mvcPractica.Utilidades.dll
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\bin\Debug\net7.0\mvcPractica.Utilidades.pdb
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\mvcPractica.Utilidades.csproj.AssemblyReference.cache
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\mvcPractica.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\mvcPractica.Utilidades.AssemblyInfoInputs.cache
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\mvcPractica.Utilidades.AssemblyInfo.cs
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\mvcPractica.Utilidades.csproj.CoreCompileInputs.cache
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\mvcPractica.Utilidades.dll
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\refint\mvcPractica.Utilidades.dll
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\mvcPractica.Utilidades.pdb
+E:\PracticaClases10-07-2025\Practica\mvcPractico.Utilidades\obj\Debug\net7.0\ref\mvcPractica.Utilidades.dll
